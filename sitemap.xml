@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://zucija.github.io/TSUCHIYA_Shinichi_CV/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://www.tsuchiyashinichi.com/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://zucija.github.io/TSUCHIYA_Shinichi_CV/</loc>
+<loc>https://www.tsuchiyashinichi.com/</loc>
 </url>
 <url>
-<loc>https://zucija.github.io/TSUCHIYA_Shinichi_CV/scan-2.html</loc>
+<loc>https://www.tsuchiyashinichi.com/scan-2.html</loc>
 <lastmod>2026-04-30T19:22:51+09:00</lastmod>
 <image:image>
-<image:loc>https://zucija.github.io/TSUCHIYA_Shinichi_CV/media/posts/3/SCAN_Berlin.jpg</image:loc>
+<image:loc>https://www.tsuchiyashinichi.com/media/posts/3/SCAN_Berlin.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
